@@ -1,3 +1,3 @@
 ugbi
 
-A Drupal theme for business.
+A Drupal theme for business, based on bartik.
