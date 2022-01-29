@@ -1,0 +1,13 @@
+global-css:
+  version: VERSION
+  css:
+    theme:
+      css/swiper-bundle.min.css: {}
+      css/main.css: {}
+
+global-js:
+  version: VERSION
+  js:
+    js/swiper-bundle.min.js: {}
+    js/initSwiper.js: {}
+    js/main.js: {}
